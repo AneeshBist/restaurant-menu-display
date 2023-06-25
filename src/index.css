@@ -1,0 +1,27 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    color: rgb(156, 70, 9);
+}
+.btn-select{
+    background-color: chocolate;
+    color: antiquewhite;
+}
+.name{
+font-weight: 700;
+font-size: large;
+color: rgb(156, 70, 9);
+}
+.price{
+font-style: italic;
+font-weight: 500;
+    color: rgb(4, 91, 172);
+}
+.card{
+   box-shadow: 1px 1px 5px rgba(255, 183, 0, 0.611); 
+}
+.card:hover{
+    box-shadow: 3px 3px 5px rgb(255, 183, 0);
+   transform: scale(1.1) 
+}
